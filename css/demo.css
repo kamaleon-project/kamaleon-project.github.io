@@ -170,7 +170,14 @@ h3 {
     bottom: 110px;
     left: 50%;
     margin-left: -144px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+}
+#intro .topsello {
+    position: absolute;
+    bottom: 110px;
+    left: 50%;
+    margin-left: -85px;
+    margin-bottom: 200px;
 }
 #intro .sparkpoint {
     top: 60px;
